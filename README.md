@@ -110,7 +110,9 @@ sd1
 ## Unit 8  模块
 
 -  Module 1： 技术分析(Technical Analysis)指标库
-     - [task 1-1 命名与用法规范及使用范例](./task/Unit8/Module1/task8-1.md)
+     - [task 1-1 命名与用法规范及使用范例](./task/Unit8/Module1/task1-1.md)
+     - [task 1-2 性能说明与向量化实现](./task/Unit8/Module1/task1-2.md)
+     - [task 1-3 DolphinDB ta 指标列表](./task/Unit8/Module1/task1-3.md)
 
 ## Unit 9  应用场景示例
 
