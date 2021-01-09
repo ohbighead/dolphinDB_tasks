@@ -18,10 +18,10 @@ Windows环境中，双击 gui.bat 以启动GUI。
 
 点击菜单栏中的Server添加服务器或编辑服务器：
 
-![Sever](.../images/single_GUI_server.png)
+![Sever](./images/single_GUI_server.png)
 
-![AddSever](.../images/single_GUI_addserver.png)
+![AddSever](./images/single_GUI_addserver.png)
 
 在工具栏的右侧是一个下拉窗口，可以切换服务器：
 
-![SwitchSever](.../images/single_GUI_tool.png)
+![SwitchSever](./images/single_GUI_tool.png)
