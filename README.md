@@ -4,7 +4,7 @@ sd1
 ## Unit 1  DolphinDB的安装和部署
 
 - Module 1： DolphinDB的安装
-    - [task 1-1 DolphinDB的简介](./task/Unit1/module1/task1.md)
+    - [task 1-1 DolphinDB的简介](./task/Unit1/module1/task1-1.md)
     - [task 1-2 DolphinDB的下载与安装]()
     - [task 1-3 ]()
 - Module 2： 单节点部署
