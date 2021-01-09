@@ -118,6 +118,9 @@ sd1
 ## Unit 9  应用场景示例
 
 -  Module 1： DolphinDB在工业物联网的应用
+
+     - [task 1-1 DolphinDB在工业物联网的案例场景说明及解决方案](./task/Unit9/Module1/task1-1.md)
+
 -  Module 2： 加密货币逐笔交易数据回放
 -  Module 3： 在DolphinDB中计算K线 
 -  Module 4： 使用DolphinDB进行机器学习
