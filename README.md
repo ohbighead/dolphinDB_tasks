@@ -9,7 +9,7 @@ sd1
     - [task 1-3 ]()
 - Module 2： 单节点部署
     - [task 2-1 软件授权许可更新与在windows和linux系统下运行dolphinDB](./task/Unit1/module2/task2-1.md)
-
+    - [task 2-2 启动GUI与操作](./task/Unit1/module2/task2-2.md)
 - Module 3： 单服务器集群部署
 
 - Module 4： 多服务器集群部署
