@@ -104,7 +104,7 @@ sd1
 
 ## Unit 8  模块
 -  Module 1： 技术分析(Technical Analysis)指标库
-
+    - [task 1-1 命名与用法规范及使用范例](./task/Unit8/module1/task1-1.md)
 ## Unit 9  应用场景示例
 -  Module 1： DolphinDB在工业物联网的应用
 -  Module 2： 加密货币逐笔交易数据回放
