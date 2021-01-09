@@ -17,13 +17,13 @@ sd1
 
 - Module 5： 基于Docker的集群部署教程
 
--  Module 6： 高可用集群部署教程
+- Module 6： 高可用集群部署教程
 
--  Module 7： 如何扩展集群节点和存储
+- Module 7： 如何扩展集群节点和存储
 
--  Module 8： DolphinDB客户端软件教程
+- Module 8： DolphinDB客户端软件教程
 
--  Module 9： DolphinDB技术支持攻略
+- Module 9： DolphinDB技术支持攻略
 
 ## Unit 2  数据库
 -  Module 1： 分区数据库设计和操作
@@ -110,7 +110,7 @@ sd1
 ## Unit 8  模块
 
 -  Module 1： 技术分析(Technical Analysis)指标库
-    - [task 1-1 命名与用法规范及使用范例](./task/Unit8/module1/task1-1.md)
+     - [task 1-1 命名与用法规范及使用范例](./task/Unit8/module1/task1-1.md)
 
 ## Unit 9  应用场景示例
 
