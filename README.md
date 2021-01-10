@@ -4,7 +4,7 @@
 
 ## Unit 1  DolphinDB的安装和部署
 
-- Module 1： DolphinDB的安装
+- [Module 1： DolphinDB的安装](https://gitee.com/dolphindb/Tutorials_CN/blob/master/dolphindb_user_guide.md)
 
 - Module 2： 单节点部署
 
