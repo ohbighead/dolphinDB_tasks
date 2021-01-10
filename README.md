@@ -29,43 +29,41 @@
 - [Module 10： DolphinDB技术支持攻略](https://gitee.com/dolphindb/Tutorials_CN/blob/master/dolphindb_support.md)
 
 ## Unit 2  数据库
--  Module 1： 分区数据库设计和操作
+-  [Module 1： 分区数据库设计和操作](https://gitee.com/dolphindb/Tutorials_CN/blob/master/database.md)
 
--  Module 2： 数据导入教程
+-  [Module 2： 数据导入教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/import_data.md)
 
--  Module 3： 数据备份恢复教程
+-  [Module 3： 数据备份恢复教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/restore-backup.md)
 
--  Module 4： 动态增加字段和计算指标
+-  [Module 4： 动态增加字段和计算指标](https://gitee.com/dolphindb/Tutorials_CN/blob/master/add_column.md)
 
--  Module 5： 内存表数据加载与操作
+-  [Module 5： 内存表数据加载与操作](https://gitee.com/dolphindb/Tutorials_CN/blob/master/partitioned_in_memory_table.md)
 
--  Module 6： 动态增加字段和计算指标
+-  [Module 6： 文本数据加载教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/import_csv.md)
 
--  Module 7： 文本数据加载教程
+-  [Module 7： 集群间数据库同步](https://gitee.com/dolphindb/Tutorials_CN/blob/master/data_synchronization_between_clusters.md)
 
--  Module 8： 集群间数据库同步
+-  [Module 8： CacheEngine与数据库日志教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/redoLog_cacheEngine.md)
 
--  Module 9： CacheEngine与数据库日志教程
-
--  Module 10： 内存表详解
+-  [Module 9： 内存表详解](https://gitee.com/dolphindb/Tutorials_CN/blob/master/in_memory_table.md)
 
 ## Unit 3  编程语言
 
--  Module 1： 脚本语言的混合范式编程
+-  [Module 1： 脚本语言的混合范式编程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/hybrid_programming_paradigms.md)
 
--  Module 2： 模块复用教程
+-  [Module 2： 模块复用教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/module_tutorial.md)
 
--  Module 3： 通用计算教程
+-  [Module 3： 通用计算教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/general_computing.md)
 
--  Module 4： 即时编译(JIT)教程
+-  [Module 4： 即时编译(JIT)教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/jit.md)
 
--  Module 5： 元编程教程
+-  [Module 5： 元编程教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/meta_programming.md)
 
--  Module 6： 自定义聚合函数
+-  [Module 6： 自定义聚合函数](https://gitee.com/dolphindb/Tutorials_CN/blob/master/udaf.md)
 
--  Module 7： 矩阵计算
+-  [Module 7： 矩阵计算](https://gitee.com/dolphindb/Tutorials_CN/blob/master/matrix.md)
 
--  Module 8： 日期/时间类型
+-  [Module 8： 日期/时间类型](https://gitee.com/dolphindb/Tutorials_CN/blob/master/date_time.md)
 
 ## Unit 4  流计算
 
