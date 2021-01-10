@@ -4,29 +4,29 @@
 
 ## Unit 1  DolphinDB的安装和部署
 
-- [Module 1： DolphinDB的安装](https://gitee.com/dolphindb/Tutorials_CN/blob/master/dolphindb_user_guide.md)
+- [Module 1： DolphinDB的安装使用指南](https://gitee.com/dolphindb/Tutorials_CN/blob/master/dolphindb_user_guide.md)
 
-- Module 2： 单节点部署
+- [Module 2： 单节点部署](https://gitee.com/dolphindb/Tutorials_CN/blob/master/standalone_server.md)
 
     - [task 2-1 软件授权许可更新与在windows和linux系统下运行dolphinDB](./task/Unit1/module2/task2-1.md)
     - [task 2-2 启动GUI与操作](./task/Unit1/module2/task2-2.md)
     - [task 2-3 运行DolphinDB脚本与修改配置](./task/Unit1/module2/task2-3.md)
 
-- Module 3： 单节点部署（嵌入式ARM版本）
+- [Module 3： 单节点部署（嵌入式ARM版本）](https://gitee.com/dolphindb/Tutorials_CN/blob/master/ARM_standalone_deploy.md)
 
-- Module 4： 单服务器集群部署
+- [Module 4： 单服务器集群部署](https://gitee.com/dolphindb/Tutorials_CN/blob/master/single_machine_cluster_deploy.md)
 
-- Module 5： 多服务器集群部署
+- [Module 5： 多服务器集群部署](https://gitee.com/dolphindb/Tutorials_CN/blob/master/multi_machine_cluster_deploy.md)
 
-- Module 6： 基于Docker的集群部署教程
+- [Module 6： 基于Docker的集群部署教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/docker_deployment.md)
 
-- Module 7： 高可用集群部署教程
+- [Module 7： 高可用集群部署教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/ha_cluster_deployment.md)
 
-- Module 8： 如何扩展集群节点和存储
+- [Module 8： 如何扩展集群节点和存储](https://gitee.com/dolphindb/Tutorials_CN/blob/master/scale_out_cluster.md)
 
-- Module 9： DolphinDB客户端软件教程
+- [Module 9： DolphinDB客户端软件教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/client_tool_tutorial.md)
 
-- Module 10： DolphinDB技术支持攻略
+- [Module 10： DolphinDB技术支持攻略](https://gitee.com/dolphindb/Tutorials_CN/blob/master/dolphindb_support.md)
 
 ## Unit 2  数据库
 -  Module 1： 分区数据库设计和操作
