@@ -1,13 +1,10 @@
 ## 写在前面
-sd1
+参与者可以选择下列Unit中的感兴趣的一个或多个module，点击相关链接阅读技术文档，制作介绍视频。
+参与者对于每一个module的视频制作可以选择全部使用一个视频介绍，也可以对module进行分块，以下列的Unit1 Module2为例，分为若干个task，对每个task分别制作介绍视频。
 
 ## Unit 1  DolphinDB的安装和部署
 
 - Module 1： DolphinDB的安装
-
-    - [task 1-1 DolphinDB的简介](./task/Unit1/module1/task1-1.md)
-    - [task 1-2 DolphinDB的下载与安装]()
-    - [task 1-3 ]()
 
 - Module 2： 单节点部署
 
@@ -15,22 +12,21 @@ sd1
     - [task 2-2 启动GUI与操作](./task/Unit1/module2/task2-2.md)
     - [task 2-3 运行DolphinDB脚本与修改配置](./task/Unit1/module2/task2-3.md)
 
-- Module 3： 单服务器集群部署
-    
-    - [task 3-1 软件授权许可更新与在windows和linux系统下运行dolphinDB](./task/Unit1/module2/task2-1.md)
+- Module 3： 单节点部署（嵌入式ARM版本）
 
+- Module 4： 单服务器集群部署
 
-- Module 4： 多服务器集群部署
+- Module 5： 多服务器集群部署
 
-- Module 5： 基于Docker的集群部署教程
+- Module 6： 基于Docker的集群部署教程
 
-- Module 6： 高可用集群部署教程
+- Module 7： 高可用集群部署教程
 
-- Module 7： 如何扩展集群节点和存储
+- Module 8： 如何扩展集群节点和存储
 
-- Module 8： DolphinDB客户端软件教程
+- Module 9： DolphinDB客户端软件教程
 
-- Module 9： DolphinDB技术支持攻略
+- Module 10： DolphinDB技术支持攻略
 
 ## Unit 2  数据库
 -  Module 1： 分区数据库设计和操作
@@ -96,8 +92,6 @@ sd1
 -  Module 4：  启动脚本教程
 
 -  Module 5：  定时作业
-
-
 
 ## Unit 6  API
 
@@ -172,16 +166,10 @@ sd1
 ## Unit 8  模块
 
 -  Module 1： 技术分析(Technical Analysis)指标库
-    
-     - [task 1-1 命名与用法规范及使用范例](./task/Unit8/Module1/task1-1.md)
-     - [task 1-2 性能说明与向量化实现](./task/Unit8/Module1/task1-2.md)
-     - [task 1-3 DolphinDB ta 指标列表](./task/Unit8/Module1/task1-3.md)
 
 ## Unit 9  应用场景示例
 
 -  Module 1： DolphinDB在工业物联网的应用
-
-     - [task 1-1 DolphinDB在工业物联网的案例场景说明及解决方案](./task/Unit9/Module1/task1-1.md)
 
 -  Module 2： 加密货币逐笔交易数据回放
 
