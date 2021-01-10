@@ -81,119 +81,119 @@
 
 ## Unit 5  系统管理
 
--  Module 1：  权限管理和安全
+-  [Module 1：  权限管理和安全](https://gitee.com/dolphindb/Tutorials_CN/blob/master/ACL_and_Security.md)
 
--  Module 2：  作业管理
+-  [Module 2：  作业管理](https://gitee.com/dolphindb/Tutorials_CN/blob/master/job_management_tutorial.md)
 
--  Module 3：  内存管理
+-  [Module 3：  内存管理](https://gitee.com/dolphindb/Tutorials_CN/blob/master/memory_management.md)
 
--  Module 4：  启动脚本教程
+-  [Module 4：  启动脚本教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/Startup.md)
 
--  Module 5：  定时作业
+-  [Module 5：  定时作业](https://gitee.com/dolphindb/Tutorials_CN/blob/master/scheduledJob.md)
 
 ## Unit 6  API
 
--  Module 1： Python API使用教程
+-  [Module 1： Python API使用教程](https://gitee.com/dolphindb/api_python3/blob/master/README.md)
 
--  Module 2： Java API使用教程
+-  [Module 2： Java API使用教程](https://gitee.com/dolphindb/api-java/blob/master/README_CN.md)
 
--  Module 3： Java API使用实例
+-  [Module 3： Java API使用实例](https://gitee.com/dolphindb/api-java/blob/master/example/README_CN.md)
 
--  Module 4： JDBC
+-  [Module 4： JDBC](https://gitee.com/dolphindb/jdbc/blob/master/README_CN.md)
 
--  Module 5： C# API使用教程
+-  [Module 5： C# API使用教程](https://gitee.com/dolphindb/api-csharp/blob/master/README_CN.md)
 
--  Module 6： C++ API使用教程
+-  [Module 6： C++ API使用教程](https://gitee.com/dolphindb/api-cplusplus/blob/master/README_CN.md)
 
--  Module 7： C++ API 数据读写指南
+-  [Module 7： C++ API 数据读写指南](https://gitee.com/dolphindb/Tutorials_CN/blob/master/c++api.md)
 
--  Module 8： Go API使用教程
+-  [Module 8： Go API使用教程](https://gitee.com/dolphindb/api-go/blob/master/README.md)
 
--  Module 9： Go API使用实例
+-  [Module 9： Go API使用实例](https://gitee.com/dolphindb/api-go/blob/master/example/README_CN.md)
 
--  Module 10：R API使用教程
+-  [Module 10：R API使用教程](https://gitee.com/dolphindb/api-r/blob/master/README_CN.md)
 
--  Module 11：Json API使用教程
+-  [Module 11：Json API使用教程](https://gitee.com/dolphindb/api-json/blob/master/README_CN.md)
 
--  Module 12：NodeJS API使用教程
+-  [Module 12：NodeJS API使用教程](https://gitee.com/dolphindb/api-nodejs/blob/master/README.md)
 
--  Module 13：redash连接DolphinDB数据源的教程
+-  [Module 13：redash连接DolphinDB数据源的教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/data_interface_for_redash.md)
 
--  Module 14：DolphinDB整合前端chart组件展示数据教程
+-  [Module 14：DolphinDB整合前端chart组件展示数据教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/web_chart_integration.md)
 
--  Module 15：Grafana连接DolphinDB数据源
+-  [Module 15：Grafana连接DolphinDB数据源](https://gitee.com/dolphindb/grafana-datasource/blob/master/README_CN.md)
 
--  Module 16：API交互协议
+-  [Module 16：API交互协议](https://gitee.com/dolphindb/Tutorials_CN/blob/master/api_protocol.md)
 
 ## Unit 7  插件
 
--  Module 1： ODBC
+-  [Module 1： ODBC](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/odbc/README.md)
 
--  Module 2： MySQL
+-  [Module 2： MySQL](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/mysql/README_CN.md)
 
--  Module 3： AWS S3
+-  [Module 3： AWS S3](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/aws/README_CN.md)
 
--  Module 4： zlib
+-  [Module 4： zlib](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/zlib/README_CN.md)
 
--  Module 5： HDF5
+-  [Module 5： HDF5](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/hdf5/README_CN.md)
 
--  Module 6： Excel
+-  [Module 6： Excel](https://gitee.com/dolphindb/excel-add-in)
 
--  Module 7： Matching engine
+-  [Module 7： Matching engine](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/MatchingEngine/README.md)
 
--  Module 8： MQTT
+-  [Module 8： MQTT](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/mqtt/README_CN.md)
 
--  Module 9： OPC
+-  [Module 9： OPC](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/opc/README_CN.md)
 
--  Module 10：DolphinDB VSCode 插件
+-  [Module 10：DolphinDB VSCode 插件](https://gitee.com/dolphindb/Tutorials_CN/blob/master/vscode_extension.md)
 
--  Module 11：XGBoost
+-  [Module 11：XGBoost](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/xgboost/README_CN.md)
 
--  Module 12：SVM
+-  [Module 12：SVM](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/svm/README_CN.md)
 
--  Module 13：parquet
+-  [Module 13：parquet](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/parquet/README_CN.md)
 
--  Module 14：mongodb
+-  [Module 14：mongodb](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/mongodb/README.md)
 
--  Module 15：插件开发教程
+-  [Module 15：插件开发教程](https://gitee.com/dolphindb/Tutorials_CN/blob/master/plugin_development_tutorial.md)
 
--  Module 16：Py
+-  [Module 16：Py](https://gitee.com/dolphindb/DolphinDBPlugin/blob/master/py/README.md)
 
--  Module 17：利用httpClient插件整合外部消息
+-  [Module 17：利用httpClient插件整合外部消息](https://gitee.com/dolphindb/Tutorials_CN/blob/master/send_messages_external_systems.md)
 
 ## Unit 8  模块
 
--  Module 1： 技术分析(Technical Analysis)指标库
+-  [Module 1： 技术分析(Technical Analysis)指标库](https://gitee.com/dolphindb/Tutorials_CN/blob/master/ta.md)
 
 ## Unit 9  应用场景示例
 
--  Module 1： DolphinDB在工业物联网的应用
+-  [Module 1： DolphinDB在工业物联网的应用](https://gitee.com/dolphindb/Tutorials_CN/blob/master/iot_demo.md)
 
--  Module 2： 加密货币逐笔交易数据回放
+-  [Module 2： 加密货币逐笔交易数据回放](https://gitee.com/dolphindb/applications/blob/master/cryptocurr_replay/README.md)
 
--  Module 3： 在DolphinDB中计算K线 
+-  [Module 3： 在DolphinDB中计算K线](https://gitee.com/dolphindb/Tutorials_CN/blob/master/OHLC.md)
 
--  Module 4： 使用DolphinDB进行机器学习
+-  [Module 4： 使用DolphinDB进行机器学习](https://gitee.com/dolphindb/Tutorials_CN/blob/master/machine_learning.md)
 
--  Module 5： DolphinDB流计算引擎实现传感器数据异常检测
+-  [Module 5： DolphinDB流计算引擎实现传感器数据异常检测](https://gitee.com/dolphindb/Tutorials_CN/blob/master/iot_anomaly_detection.md)
 
--  Module 6： 实时计算高频因子
+-  [Module 6： 实时计算高频因子](https://gitee.com/dolphindb/Tutorials_CN/blob/master/hf_factor_streaming.md)
 
--  Module 7： DolphinDB教程：面板数据的处理
+-  [Module 7： DolphinDB教程：面板数据的处理](https://gitee.com/dolphindb/Tutorials_CN/blob/master/panel_data.md)
 
 ## Unit 10 入门和示例
 
--  Module 1： DolphinDB入门：量化金融范例
+-  [Module 1： DolphinDB入门：量化金融范例](https://gitee.com/dolphindb/Tutorials_CN/blob/master/quant_finance_examples.md)
 
--  Module 2： DolphinDB入门：物联网范例
+-  [Module 2： DolphinDB入门：物联网范例](https://gitee.com/dolphindb/Tutorials_CN/blob/master/iot_examples.md)
 
 ## Unit 11 测试报告
 
--  Module 1： DolphinDB API性能基准测试报告
+-  [Module 1： DolphinDB API性能基准测试报告](https://gitee.com/dolphindb/Tutorials_CN/blob/master/api_performance.md)
 
--  Module 2： 金融市场高频数据应当如何管理 - DolphinDB与pickle的性能对比测试和分析
+-  [Module 2： 金融市场高频数据应当如何管理 - DolphinDB与pickle的性能对比测试和分析](https://gitee.com/dolphindb/Tutorials_CN/blob/master/DolphinDB_pickle_comparison.md)
 
--  Module 3： DolphinDB集群水平扩展性能测试
+-  [Module 3： DolphinDB集群水平扩展性能测试](https://gitee.com/dolphindb/Tutorials_CN/blob/master/Cluster_scale_out_performance_test.md)
 
 
 
